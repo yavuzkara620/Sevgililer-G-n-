@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
+            text: "Beni beğeniyor musun?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "Seni beğenmiyorum, Seni çookk seviyorumm! ❤️"           // Secret hover message
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Sonraki ❤️"                                         // Text for the next button
         },
         third: {
-            text: "14 Şubat'ta sevgilim olur musun? 😛😛", // The big question!
+            text: "14 Şubat'ta benim ile birlikte olur musun? 😛😛", // The big question!
             yesBtn: "Eveettt!",                                             // Text for "Yes" button
             noBtn: "Hayır"                                                 // Text for "No" button
         }
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "BLUBLUBLUB Dünyanın en şanslı insanıyımmm 🎉💝💖💝💓",
+        title: "BLUBLUBLUB Dünyanın en şanslı insanıyımmm. Seni çok seviyorum aşkım bitanem herşeyim<3 🎉💝💖💝💓",
         message: "Şimdi sıra hediyemde, kocaman bir kucaklama ve sıcacık bir öpücük!",
         emojis: "🎁💖🤗💝❤️💕"  // These will bounce around
     },
