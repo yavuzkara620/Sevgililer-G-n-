@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "BLUBLUBLUB Dünyanın en şanslı insanıyımmm. Seni çok seviyorum aşkım bitanem herşeyim<3 🎉💝💖💝💓",
-        message: "Sen benim sığındığım huzur, baktığım umut, kokladığım en güzel çiçeksin. Aşk bahçemizin hiç solmaması dileğiyle... Sevgililer Günümüz kutlu olsun",
+        title: "Sen benim sığındığım huzur, baktığım umut, kokladığım en güzel çiçeksin. Aşk bahçemizin hiç solmaması dileğiyle...💓",
+        message: "Sevgililer Günümüz kutlu olsun",
         emojis: "🎁💖🤗💝❤️💕"  // These will bounce around
     },
 
